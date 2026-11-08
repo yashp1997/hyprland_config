@@ -1,0 +1,9 @@
+#core launcher
+hyprland
+#bar for wayland
+waybar
+#clipboard & notification
+copyq
+dunst
+#screenshot
+hyprshot
